@@ -1,16 +1,4 @@
-# Package discontinued! Check out VARBOX.IO instead.
-
 Unfortunately this package is now discontinued.   
-Please check out [Varbox](https://varbox.io) (Laravel Admin Panel) for this functionality and much more.
-
-- Buy: [https://varbox.io/buy](https://varbox.io/buy)
-- Docs: [https://varbox.io/docs](https://varbox.io/docs)
-- Demo: [https://demo.varbox.test/admin](https://demo.varbox.test/admin)
-- Repo [https://github.com/VarboxInternational/varbox](https://github.com/VarboxInternational/varbox)
-
-Thank you! 
-
----
 
 ### Duplicate any Eloquent model along with its relationships   
 
@@ -35,7 +23,7 @@ Relationship types that can and will make sense to be duplicated: `hasOne`, `mor
 Install the package via Composer:
 
 ```
-composer require neurony/laravel-duplicate
+composer require dutysheet/laravel-duplicate
 ```
 
 ### Usage
